@@ -1,0 +1,10 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE suite SYSTEM "http://testng.org/testng-1.0.dtd">
+<suite name="Parallel - All Test Suite" parallel="methods" thread-count="6">
+    <test verbose="2" preserve-order="true" name="APIAutomationATB6x">
+        <classes>
+            <class name="org.example.tests.misc.parallel.MainClass">
+            </class>
+        </classes>
+    </test>
+</suite>

@@ -1,0 +1,22 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<testsuite name="APIAutomationATB6x"
+           tests="2"
+           failures="0"
+           errors="0"
+           skipped="0"
+           time="4.821">
+    <properties></properties>
+
+
+
+            <testcase
+                name="testCreateBooking"
+                time="3.472"
+                classname="org.example.tests.crud.testCreateBookingPOST">
+            </testcase>
+            <testcase
+                name="testCreateBookingNegative"
+                time="1.349"
+                classname="org.example.tests.crud.testCreateBookingPOST">
+            </testcase>
+</testsuite>

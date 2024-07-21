@@ -1,0 +1,42 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<testsuite name="APIAutomationATB6x2"
+           tests="6"
+           failures="0"
+           errors="0"
+           skipped="0"
+           time="0.020">
+    <properties></properties>
+
+
+
+            <testcase
+                name="testMethodsC2TC01"
+                time="0.003"
+                classname="org.example.tests.misc.parallel.MainClass2">
+            </testcase>
+            <testcase
+                name="testMethodsC2TC02"
+                time="0.003"
+                classname="org.example.tests.misc.parallel.MainClass2">
+            </testcase>
+            <testcase
+                name="testMethodsC2TC04"
+                time="0.002"
+                classname="org.example.tests.misc.parallel.MainClass2">
+            </testcase>
+            <testcase
+                name="testMethodsC2TC06"
+                time="0.004"
+                classname="org.example.tests.misc.parallel.MainClass2">
+            </testcase>
+            <testcase
+                name="testMethodsC2TC03"
+                time="0.003"
+                classname="org.example.tests.misc.parallel.MainClass2">
+            </testcase>
+            <testcase
+                name="testMethodsC2TC05"
+                time="0.005"
+                classname="org.example.tests.misc.parallel.MainClass2">
+            </testcase>
+</testsuite>

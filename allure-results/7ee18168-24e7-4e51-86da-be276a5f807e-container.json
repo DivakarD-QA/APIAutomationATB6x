@@ -1,0 +1,1 @@
+{"uuid":"7ee18168-24e7-4e51-86da-be276a5f807e","name":"APIAutomationATB6x","children":["dee26013-6ab5-4fef-baaf-2f90876caf96"],"befores":[{"name":"setup","status":"passed","stage":"finished","description":"","steps":[],"attachments":[],"parameters":[],"start":1721055932498,"stop":1721055933347}],"afters":[],"start":1721055932470,"stop":1721055933660}
